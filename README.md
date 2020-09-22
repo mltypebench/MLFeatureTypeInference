@@ -2,7 +2,7 @@
 
 # Task: ML Feature Type Inference
 
-This project is about inferring ML feature types from the raw CSV files. Please refer to our tech report for more details.
+This project is about inferring ML feature types from the raw CSV files. Please refer to our [tech report](https://github.com/mltypebench/MLFeatureTypeInference/blob/master/Report/TR_2021_MLFeatTypeInference.pdf) for more details.
 
 
 ## Benchmark Labeled Data
